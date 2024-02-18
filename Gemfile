@@ -11,7 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'rb-readline'
-gem 'bigdecimal' '>= 2.0.0'
+gem 'bigdecimal', '>= 2.0.0'
 
 group :development do
   gem 'byebug'
