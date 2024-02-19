@@ -13,6 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'rb-readline'
 gem 'bigdecimal', '>= 2.0.0'
 gem 'rake', '>= 13.0.1'
+gem 'bundler', '>= 2.0.0'
 
 group :development do
   gem 'byebug'
